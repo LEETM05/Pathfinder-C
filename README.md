@@ -1,7 +1,7 @@
 # Navigation Project
 
 ## Description
-This project appears to be a C/C++ application related to navigation. Further details will be added here.
+This project appears to be a C application related to navigation. Further details will be added here.
 
 ## Files
 - `NAVI.c`: Main source file for navigation logic.
